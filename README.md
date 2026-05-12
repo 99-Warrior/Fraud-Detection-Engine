@@ -1,6 +1,6 @@
 # Fraud-Detection-Engine
 Real-time scoring system- Fraud detection system build with FastAPI-Swagger UI
-Project Overview
+#Project Overview
 
 Explain:
 
@@ -10,6 +10,7 @@ FastAPI risk scoring
 decision engine
 fraud monitoring
 Architecture Flow
+
 Transaction Simulator
         ↓
 Transaction Dataset
@@ -23,7 +24,7 @@ FastAPI Scoring API
 Risk Decision Engine
 (ALLOW / OTP / BLOCK)
 
-Features
+#Features
 
 
 ✅ transaction velocity detection
@@ -34,7 +35,7 @@ Features
 ✅ ML classification
 ✅ API deployment
 
-Tech Stack
+#Tech Stack
 
 Python
 PySpark
@@ -44,7 +45,7 @@ Scikit-learn
 Pandas
 SQL
 
-API Example
+#API Example
 
 {"amount": 95000,
   "velocity_24h": 8,
